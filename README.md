@@ -1,8 +1,14 @@
 <h1 align="center">
 	<a href="https://github.com/HuaSakura">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=SakuraHua**`s OnePage，欢迎大家来踩，嘿嘿！！！&center=true&size=27&color=F68FF7">
+		SakuraHua**`s OnePage，欢迎大家来踩，嘿嘿！！！
 	</a>
 </h1>
+
+<h3 align="center">
+	<a href="https://github.com/HuaSakura">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to leave comments and share&center=true&size=27&color=F68FF7">
+	</a>
+</h3>
 
 
 <img height=280 width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=HuaSakura&show_icons=true&theme=cobalt&border_radius=10&locale=cn&line_height=30" />
