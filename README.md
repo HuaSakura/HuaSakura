@@ -2,7 +2,7 @@
 
 <h1 align="center">
 	<a href="https://github.com/HuaSakura">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到SakuraHua`s空间&center=true&size=27">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到SakuraHua`s空间&center=true&size=27&color=F68FF7">
 	</a>
 </h1>
 
