@@ -5,9 +5,7 @@
 </h1>
 
 <h3 align="center">
-	<a href="https://github.com/HuaSakura">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to leave comments and share&center=true&size=27&color=F68FF7">
-	</a>
+	<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome to share;&center=true&size=27&color=F68FF7">
 </h3>
 
 
