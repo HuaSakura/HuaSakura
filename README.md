@@ -1,5 +1,5 @@
 <h1 align="center">
-	<a href="https://github.com/HuaSakura">
+	<a href="https://github.com/HuaSakura" style="color: #FFF;">
 		SakuraHua**`s OnePage，欢迎大家来踩，嘿嘿！！！
 	</a>
 </h1>
