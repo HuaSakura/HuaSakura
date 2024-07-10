@@ -2,7 +2,7 @@
 	SakuraHua**`s OnePage，欢迎大家来踩，嘿嘿！！！
 </h1>
 
-<div align="center">
+<div align="center" style="margin: 10px;">
 	<img align="center" src="https://img.shields.io/badge/喜欢吗-点个Star吧-pink" />
 </div>
 
